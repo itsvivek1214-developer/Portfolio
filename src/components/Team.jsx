@@ -21,20 +21,20 @@ const skillsData = [
 // },
 {
   category: "WebTechnologies",
-  skills: ["HTML", "CSS"],
+  skills: ["HTML", "CSS", "React"],
 },
 {
   category: "Frameworks",
-  skills: ["Java Collection Frameworks", "Hibernate"],
+  skills: ["Java Collection Frameworks", "Hibernate","Spring Framework"],
 },
 {
   category: "Database Technologies",
-  skills: ["SQL", "JDBC"],
+  skills: ["SQL", "JDBC", "MySQL"],
 },
-// {
-//   category: "Deployment & Version Control",
-//   skills: ["Vercel", "Git", "GitHub"],
-// },
+{
+  category: "Deployment & Version Control",
+  skills: ["Vercel", "Git", "GitHub","Render"],
+},
 {
   category: "Productivity Tools",
   skills: ["MS Word", "PowerPoint", "Excel", "Canva"],
