@@ -6,90 +6,28 @@ const projects = [
 
   {
   name: "TaskForge Full Stack Task Management App ",
-  // link: "https://github.com/Gaurav2002-developer/Apple-Stock-Price-Prediction",
+  link: "https://github.com/itsvivek1214-developer/TaskForge-backend.git",
   tech: ["Java", "Spring Boot", "REST API", "JWT", "MySQL"],
   idea: "Built and deployed a full-stack task management app with JWT authentication, role-based access, and Kanban workflow. Developed RESTful APIs with validation, error handling, and clean MVC architecture.",
 },
 {
   name: "QuizMaster  Full Stack Quiz Platform",
-  // link: "https://github.com/Gaurav2002-developer/Amazon-Web-Scraping-Selenium-",
+  // link: "",
   tech: ["Java", "Spring MVC", "REST API", "MySQL", "JavaScript"],
   idea: "Developed a configurable quiz platform with real-time scoring, dynamic question sets, and session management. Integrated third-party APIs with retry logic and fallback mechanisms for high availability.Developed a configurable quiz platform with real-time scoring, dynamic question sets, and session management. Integrated third-party APIs with retry logic and fallback mechanisms for high availability.",
 },
 {
   name: "Employee Management System",
-  // link: "https://github.com/Gaurav2002-developer/Zomato-Dataset-EDA",
+  // link: "",
   tech: ["Java", "Hibernate", "JDBC", "MySQL", "Collections Framework"],
   idea: "Engineered a console-based CRUD application using Hibernate ORM and Java Collections for persistent employee record management, covering add, update, view, and delete operations",
 },
 {
   name: "Non-Germinoma Brain Tumour Detection",
-  // link: "https://github.com/Gaurav2002-developer/Object-Detection",
+  // link: "",
   tech: [ "Python", "CNN", "Deep Learning", "OpenCV"],
   idea: "Built a CNN model to classify non-germinoma brain tumours from MRI images, focusing on preprocessing pipelines, feature extraction, and optimizing classification accuracy.",
-},
-//   {
-//   name: "Freelix",
-//   link: "https://github.com/Gaurav2002-developer/Freelix",
-//   tech: ["Supabase", "Python", "Django", "SQL", "Postgres", "React", "CSS"],
-//   idea: "A free movies website built using Supabase, Python, Django, SQL, Postgres, and React with a clean UI and smooth functionality.",
-//   },
-//   {
-//     name: "Search Engine (GetLP)",
-//     link: "https://github.com/Gaurav2002-developer/ML-Projects/tree/main/GetLP",
-//     tech: ["Python", "Flask", "RapidFuzz", "LLMs"],
-//     idea: "A search engine built to assist students in preparing for placements. Uses AI concepts like RapidFuzz and LLMs to provide smarter, context-aware results.",
-//   },
-//   {
-//   name: "Rootline.Visuals",
-//   link: "https://github.com/Gaurav2002-developer/Rootline.Visuals",
-//   tech: ["React", "TailwindCSS", "Framer Motion", "Vercel"],
-//   idea: "A modern and responsive website built for a design company, featuring smooth animations, clean UI, and deployed on Vercel for fast performance.",
-// },
-
-//   {
-//     name: "Plagiarism Checker (NLP)",
-//     link: "https://github.com/Gaurav2002-developer/ML-Projects/tree/main/Plagiarism-Checker",
-//     tech: ["Python", "NLTK", "Scikit-learn", "Pandas"],
-//     idea: "Detects plagiarism in text documents using NLP techniques and machine learning models. Helps ensure originality in academic and professional writing.",
-//   },
-//   {
-//     name: "Language Detection & Translation Tool",
-//     link: "https://github.com/Gaurav2002-developer/ML-Projects/tree/main/Language-Detection-and-Translation-Tool",
-//     tech: ["Python", "Flask", "NLTK", "Google Translator API"],
-//     idea: "Automatically detects input language and translates it into the desired target language. Useful for multilingual communication and learning.",
-//   },
-//   {
-//     name: "Diabetes Prediction",
-//     link: "https://github.com/Gaurav2002-developer/ML-Projects/tree/main/Diabetes-Prediction",
-//     tech: ["Python", "Flask", "Pickle", "Machine Learning"],
-//     idea: "A prediction system that uses patient health data and ML algorithms to determine the likelihood of diabetes, supporting early healthcare decisions.",
-//   },
-//   // {
-//   //   name: "Connect - Social Media App",
-//   //   link: "https://github.com/Gaurav2002-developer/Social_handler",
-//   //   tech: ["React", "JavaScript", "HTML", "CSS"],
-//   //   idea: "A social media application where users can connect globally, share posts, and interact. Focused on building community engagement.",
-//   // },
-//   {
-//   name: "Python Sorting Visualizer",
-//   link: "https://github.com/Gaurav2002-developer/Python-Sorting-Visualizer",
-//   tech: ["Python", "Pygame"],
-//   idea: "An interactive sorting visualizer built using Python and Pygame, demonstrating algorithms like Insertion Sort and Bubble Sort through engaging visual animations.",
-// },
-//  {
-//     name: "Connect - Social Media App",
-//     link: "https://github.com/Gaurav2002-developer/Social_handler",
-//     tech: ["React", "JavaScript", "HTML", "CSS"],
-//     idea: "A social media application where users can connect globally, share posts, and interact. Focused on building community engagement.",
-//   },
-// {
-//   name: "Shopkart",
-//   link: "https://github.com/Gaurav2002-developer/Shopkart",
-//   tech: ["HTML", "CSS", "JavaScript"],
-//   idea: "A simple e-commerce website built with core web technologies, showcasing product listings, shopping cart functionality, and a clean user interface.",
-// },
-
+}
 
 ];
 
